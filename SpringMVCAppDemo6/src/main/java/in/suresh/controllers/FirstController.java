@@ -14,5 +14,9 @@ public class FirstController {
 		
 		return "one";
 	}
+	
+	public void add() {
+		System.out.println("Hello suresh");
+	}
 
 }
